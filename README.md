@@ -2,7 +2,7 @@
 
 ## Live Site
 
-[Live Site] (https://covid-19-20-tracker.netlify.app/).
+[Live Site](https://covid-19-20-tracker.netlify.app/).
 
 # Getting Started with Create React App
 
