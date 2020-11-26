@@ -1,5 +1,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2841c3ef-adb8-453f-ad24-6037c9c7ccfc/deploy-status)](https://app.netlify.com/sites/silly-bohr-40c3eb/deploys)
 
+## Live Site
+
+[Live Site] (https://covid-19-20-tracker.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
